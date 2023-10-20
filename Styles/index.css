@@ -1,0 +1,34 @@
+.order{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-decoration: double;
+    margin-inline-start: 0pc;
+    font-size: larger;
+}
+#top{
+    color: white;
+    font-weight: bolder;
+    text-align: right;
+    font-style: oblique;
+}
+#top2{
+    color:white;
+    font-weight: bold;
+    text-align: right;
+    font-style: oblique;
+}
+body{
+    background-color: grey;
+}
+
+.menu{
+    text-align: right;
+}
+.about{
+    text-align: right;
+}
+.contact{
+    text-align: right;
+}
