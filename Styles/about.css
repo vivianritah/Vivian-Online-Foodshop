@@ -1,8 +1,8 @@
 .paragraph{
-    color: dodgerblue;
-    text-align: center;
+    font-size:100px ;
 }
 .heading{
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bolder;
+    font-style: oblique;
+    color: antiquewhite;
+    font-size: 100px;
 }

@@ -1,6 +1,14 @@
 .email{
-    color: blue;
+    color: green;
+    font-size: 50px;
 }
 .tel{
-    color: blue;
+    color: green;
+    font-size: 50px;
+}
+#motto{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-style: oblique;
 }

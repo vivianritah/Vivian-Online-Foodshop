@@ -1,34 +1,26 @@
 .order{
-    background-color: red;
+    font-size: 50px;
     text-align: center;
     color: white;
-    font-weight: bolder;
-    text-decoration: double;
-    margin-inline-start: 0pc;
-    font-size: larger;
 }
 #top{
     color: white;
     font-weight: bolder;
-    text-align: right;
+    text-align: center;
     font-style: oblique;
+    font-size: 150px;
 }
 #top2{
     color:white;
-    font-weight: bold;
-    text-align: right;
+    font-weight: bolder;
+    text-align:center;
     font-style: oblique;
+    font-size: 100px;
 }
-body{
-    background-color: grey;
-}
-
-.menu{
-    text-align: right;
-}
-.about{
-    text-align: right;
-}
-.contact{
-    text-align: right;
+.welcome{
+    color: rgb(22, 146, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-size: 80px;
 }
